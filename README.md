@@ -96,7 +96,7 @@ jupyter notebook
 
 ## 👨‍💻 Author
 
-**[Your Name]**
+**Christian Antonio Genovese**
 - GitHub: [@Chris05-Gen](https://github.com/Chris05-Gen)
 - LinkedIn: [Your Profile](https://linkedin.com/in/your-profile)
 
